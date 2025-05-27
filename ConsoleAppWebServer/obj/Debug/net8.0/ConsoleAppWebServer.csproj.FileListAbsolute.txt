@@ -1,0 +1,14 @@
+D:\Users\songbo\source\repos\ConsoleAppWebServer\ConsoleAppWebServer\obj\Debug\net8.0\ConsoleAppWebServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\songbo\source\repos\ConsoleAppWebServer\ConsoleAppWebServer\obj\Debug\net8.0\ConsoleAppWebServer.AssemblyInfoInputs.cache
+D:\Users\songbo\source\repos\ConsoleAppWebServer\ConsoleAppWebServer\obj\Debug\net8.0\ConsoleAppWebServer.AssemblyInfo.cs
+D:\Users\songbo\source\repos\ConsoleAppWebServer\ConsoleAppWebServer\obj\Debug\net8.0\ConsoleAppWebServer.csproj.CoreCompileInputs.cache
+D:\Users\songbo\source\repos\ConsoleAppWebServer\ConsoleAppWebServer\bin\Debug\net8.0\ConsoleAppWebServer.exe
+D:\Users\songbo\source\repos\ConsoleAppWebServer\ConsoleAppWebServer\bin\Debug\net8.0\ConsoleAppWebServer.deps.json
+D:\Users\songbo\source\repos\ConsoleAppWebServer\ConsoleAppWebServer\bin\Debug\net8.0\ConsoleAppWebServer.runtimeconfig.json
+D:\Users\songbo\source\repos\ConsoleAppWebServer\ConsoleAppWebServer\bin\Debug\net8.0\ConsoleAppWebServer.dll
+D:\Users\songbo\source\repos\ConsoleAppWebServer\ConsoleAppWebServer\bin\Debug\net8.0\ConsoleAppWebServer.pdb
+D:\Users\songbo\source\repos\ConsoleAppWebServer\ConsoleAppWebServer\obj\Debug\net8.0\ConsoleAppWebServer.dll
+D:\Users\songbo\source\repos\ConsoleAppWebServer\ConsoleAppWebServer\obj\Debug\net8.0\refint\ConsoleAppWebServer.dll
+D:\Users\songbo\source\repos\ConsoleAppWebServer\ConsoleAppWebServer\obj\Debug\net8.0\ConsoleAppWebServer.pdb
+D:\Users\songbo\source\repos\ConsoleAppWebServer\ConsoleAppWebServer\obj\Debug\net8.0\ConsoleAppWebServer.genruntimeconfig.cache
+D:\Users\songbo\source\repos\ConsoleAppWebServer\ConsoleAppWebServer\obj\Debug\net8.0\ref\ConsoleAppWebServer.dll
