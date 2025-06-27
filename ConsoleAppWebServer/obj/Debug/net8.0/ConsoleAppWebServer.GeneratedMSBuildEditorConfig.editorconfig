@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ConsoleAppWebServer
-build_property.ProjectDir = D:\Users\songbo\source\repos\ConsoleAppWebServer\ConsoleAppWebServer\
+build_property.ProjectDir = C:\Users\songbo\Desktop\async\csharp_sync_async_webserver\ConsoleAppWebServer\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

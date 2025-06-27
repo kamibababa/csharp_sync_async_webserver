@@ -8,17 +8,17 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\songbo\\.nuget\\packages\\": {},
+    "D:\\NuGetPackages": {},
     "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\songbo\\source\\repos\\ConsoleAppWebServer\\ConsoleAppWebServer\\ConsoleAppWebServer.csproj",
+      "projectUniqueName": "C:\\Users\\songbo\\Desktop\\async\\csharp_sync_async_webserver\\ConsoleAppWebServer\\ConsoleAppWebServer.csproj",
       "projectName": "ConsoleAppWebServer",
-      "projectPath": "D:\\Users\\songbo\\source\\repos\\ConsoleAppWebServer\\ConsoleAppWebServer\\ConsoleAppWebServer.csproj",
-      "packagesPath": "C:\\Users\\songbo\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\songbo\\source\\repos\\ConsoleAppWebServer\\ConsoleAppWebServer\\obj\\",
+      "projectPath": "C:\\Users\\songbo\\Desktop\\async\\csharp_sync_async_webserver\\ConsoleAppWebServer\\ConsoleAppWebServer.csproj",
+      "packagesPath": "D:\\NuGetPackages",
+      "outputPath": "C:\\Users\\songbo\\Desktop\\async\\csharp_sync_async_webserver\\ConsoleAppWebServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

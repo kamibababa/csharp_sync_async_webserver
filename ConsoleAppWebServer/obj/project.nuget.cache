@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3xMEpV6FY7EKohkDCej5pXLEWuynSJBrl8uxBnzvWvVcrpKzsRNj22ZRoqZXbtNZwEwmqvBgnTJeqapDQKpolw==",
+  "dgSpecHash": "ExGC8+UMlCdb1RzFGC0Vsa+/im3BzOin9aYsCi28ByKNEH7loQtcxD4Pxs/mt/yaW+XELA5EiZcLupAyVDfN+g==",
   "success": true,
-  "projectFilePath": "D:\\Users\\songbo\\source\\repos\\ConsoleAppWebServer\\ConsoleAppWebServer\\ConsoleAppWebServer.csproj",
+  "projectFilePath": "C:\\Users\\songbo\\Desktop\\async\\csharp_sync_async_webserver\\ConsoleAppWebServer\\ConsoleAppWebServer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
